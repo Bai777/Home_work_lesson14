@@ -15,7 +15,6 @@ public class WorkingWithArrays {
         System.out.println(arrayCheckTwoArr(arrTwo));
     }
 
-
     public static int[] arrayCheckOneArr(int[] arrOne) {
         int x = 0;
         int [] result = null;

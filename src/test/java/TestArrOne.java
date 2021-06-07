@@ -17,6 +17,7 @@ public class TestArrOne {
         });
     }
 
+
     @ParameterizedTest
     @MethodSource("data")
     public void testArrayOne(int[] arrIn, int[] arrOut){
