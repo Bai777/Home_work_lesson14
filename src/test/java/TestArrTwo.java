@@ -19,7 +19,6 @@ public class TestArrTwo {
         });
     }
 
-
     @ParameterizedTest
     @MethodSource("data")
     public void testArrayTwo(int[] arr, boolean result){
